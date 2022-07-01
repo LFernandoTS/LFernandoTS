@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LFernandoTS
-- 👀 I’m interested in learn
+- 👀 I’m interested in learn software development and web dev
 - 🌱 I’m currently learning basic software development and web development, am a beginner (its my first day) XD
 - 💞️ I’m looking to collaborate on basic things that i can learn
 - 📫 How to reach me: ig @dluisfernando 
